@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large Model weights (GitHub has 100MB limit)
+Models/*.keras
+
+# Virtual environments (if any)
+venv/
+env/
+.env
